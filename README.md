@@ -1,5 +1,5 @@
 # storePad
-泛媒阅读APP-商城-内嵌H5页面
+首个pad版本-内嵌H5页面
 
 1. index.html                   首页
 2. freeBook.html                免费页面
